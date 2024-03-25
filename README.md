@@ -16,7 +16,8 @@ Exercise 4.4:
     • 5). Find the supplier names of the suppliers who supply a red part that costs less than 100 dollars and a green part that costs less tha 100 dollars.
 
 ----------------------------------------------------------------------------------------
-Exercise 5.2
+Exercise 5.2:
+
 The Catalog relation lists the prices charged for parts by Suppliers. Create these tables in SQL Developer, populate the tables, and write the following queries in SQL:
 
 1.	Find the pnames of parts for which there is some supplier.
